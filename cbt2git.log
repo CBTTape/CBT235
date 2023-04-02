@@ -1,0 +1,5 @@
+2023-04-02 22:51:05.440731 - Initialized conversion of CBT235
+2023-04-02 22:51:05.479472 - Received CBT.V504.FILE235.PDS from FILE235.XMI 
+2023-04-02 22:51:05.482749 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE235.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:51:05.484284 - Found @FILE235.txt (text/plain) in CBT.V504.FILE235.PDS, moved to PDS/@FILE235
+2023-04-02 22:51:05.485581 - Found MODREP.txt (text/plain) in CBT.V504.FILE235.PDS, moved to PDS/MODREP
